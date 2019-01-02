@@ -14,7 +14,7 @@
     float: left;
     width: 200px;
     height: 52px;
-    background: url(../images/logo.png) no-repeat;
+    /*background: url(../images/logo.png) no-repeat;*/
 }
 
 .navbar li {
