@@ -1,9 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 html, body{
     font-family: 'Open Sans', sans-serif;
     font-size: 100%;
@@ -1136,7 +1130,7 @@ ul.social-icons.two {
 	height:200px; 
 	resize:none;	
 }
-.mail_right input[type="submit"] {
+.mail_right input[type="button"] {
         border: none;
     outline: none;
     color: #fff;
@@ -1144,7 +1138,7 @@ ul.social-icons.two {
     font-size: 16px;
     padding: 13px 40px;
 }
-.mail_right input[type="submit"]:hover{
+.mail_right input[type="button"]:hover{
  background: #00a78e;
 	    transition: 0.5s all ease;
     -webkit-transition: 0.5s all ease;
@@ -1515,7 +1509,7 @@ span.border.two:after {
 		height: 100px;
 		resize: none;
 	}
-	.mail_right input[type="submit"] {
+	.mail_right input[type="button"] {
 		font-size: 15px;
 		padding: 11px 40px;
 	}
