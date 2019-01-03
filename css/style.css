@@ -760,13 +760,19 @@ ul.year li:nth-child(2){
 	    margin-top: 119px;
 }
 ul.year li:nth-child(3){
-	    margin-top: 129px;
+	    margin-top: 234px;
 }
 ul.year li:nth-child(4){
-	    margin-top: 116px;
+	    margin-top: 287px;
 }
 ul.year li:nth-child(5){
-	    margin-top: 112px;
+	    margin-top: 149px;
+}
+ul.year li:nth-child(6){
+    margin-top: 125px;
+}
+ul.year li:nth-child(7){
+    margin-top: 97px;
 }
 .timeline-badge.success i {
     font-size: 0.9em;
